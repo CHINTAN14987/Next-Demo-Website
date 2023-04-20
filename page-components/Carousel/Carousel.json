@@ -1,0 +1,34 @@
+{
+  "reviewData": [
+    {
+      "id": 1,
+      "content": "I’m glad to write this testimonial for code team and its dedicated team. I can describe them and the work done by them in just two words, “Simply Awesome”! Be it the turnaround, quality or the concept understanding, I got the best from them. In fact, before writing all this, I’ve already recommended them",
+      "image": "/Images/Reviewer1.png",
+      "rating": "3"
+    },
+    {
+      "id": 2,
+      "content": "I’m glad to write this testimonial for code team and its dedicated team.",
+      "image": "/Images/Reviewer2.png",
+      "rating": "4"
+    },
+    {
+      "id": 3,
+      "content": "hem and the work done by them in just two words, “Simply Awesome”! Be it the turnaround, quality or the concept understanding, I got the best from them. In fact, before writing all this, I’ve already recommended them",
+      "image": "/Images/Reviewer3.png",
+      "rating": "5"
+    },
+    {
+      "id": 4,
+      "content": "hem and the work done by them in just two words, “Simply Awesome”! Be it the turnaround, quality or the concept understanding, I got the best from them. In fact, before writing all this, I’ve already recommended them",
+      "image": "/Images/Reviewer4.png",
+      "rating": "5"
+    },
+    {
+      "id": 5,
+      "content": "hem and the work done by them in just two words, “Simply Awesome”! Be it the turnaround, quality or the concept understanding, I got the best from them. In fact, before writing all this, I’ve already recommended them",
+      "image": "/Images/Reviewer5.png",
+      "rating": "5"
+    }
+  ]
+}

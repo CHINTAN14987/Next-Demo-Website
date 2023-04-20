@@ -1,0 +1,53 @@
+.StyledSlider {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.SlideImage {
+  width: 400px;
+  height: 300px;
+  object-fit: cover;
+}
+.imageWrapper {
+  position: relative;
+  height: 20rem;
+  width: 40rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  img {
+    border-radius: 50%;
+    position: absolute;
+  }
+  img:nth-child(1) {
+    top: 20% !important;
+    left: 0;
+  }
+  img:nth-child(2) {
+    top: 10% !important;
+    right: 0 !important;
+  }
+  img:nth-child(3) {
+    bottom: 10% !important;
+    right: 0 !important;
+  }
+  img:nth-child(4) {
+    bottom: 10% !important;
+    left: 0 !important;
+  }
+}
+.rightArrow {
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  font-size: 2rem;
+}
+
+.leftArrow {
+  position: absolute;
+  top: 50%;
+  left: 20px;
+  font-size: 2rem;
+}
