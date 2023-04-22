@@ -2,9 +2,12 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  div {
-    position: relative;
-    height: 20rem;
-    width: 20rem;
+  .content h3 {
+    color: white;
   }
+  // div {
+  //   position: relative;
+  //   height: 20rem;
+  //   width: 20rem;
+  // }
 }
