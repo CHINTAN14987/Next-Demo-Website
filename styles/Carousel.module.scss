@@ -3,12 +3,20 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  padding: 0 30px;
 }
 
 .SlideImage {
   width: 400px;
-  height: 300px;
+  // height: 300px;
   object-fit: cover;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 80%;
+  margin: auto;
 }
 .imageWrapper {
   position: relative;
@@ -41,13 +49,19 @@
 .rightArrow {
   position: absolute;
   top: 50%;
-  right: 20px;
+  right: -25px;
   font-size: 2rem;
+  color: white;
+  font-weight: 900;
+  cursor: pointer;
 }
 
 .leftArrow {
   position: absolute;
   top: 50%;
-  left: 20px;
+  left: -25px;
   font-size: 2rem;
+  color: white;
+  font-weight: 900;
+  cursor: pointer;
 }

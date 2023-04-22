@@ -1,7 +1,7 @@
 import Image from "next/image";
 import React from "react";
-import styles from "../../../styles/HomepageBanner.module.scss";
-import banner from "/public/Images/homepage-banner.png";
+import banner from "../../../public/Images/homepage-banner.png";
+import styles from "../../../styles/banner.module.scss";
 export const Banner = () => {
   return (
     <div className={styles.container}>
@@ -11,9 +11,10 @@ export const Banner = () => {
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         </p>
+        <button>Get in Touch</button>
       </div>
       <div>
-        <Image src={banner} fill />
+        <Image src={banner} height={300} width={300} />
       </div>
     </div>
   );
