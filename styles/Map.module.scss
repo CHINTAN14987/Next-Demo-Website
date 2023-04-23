@@ -1,0 +1,19 @@
+@import "mixins";
+.mapWrapper {
+  width: 25rem;
+  position: relative;
+  margin-top: 3rem;
+  border-radius: 20px;
+  iframe {
+    border-radius: 20px;
+    @include shadow;
+    width: 25rem;
+    height: 35rem;
+  }
+}
+.place-name {
+  display: none !important;
+}
+.place-desc-large {
+  display: none !important;
+}

@@ -1,3 +1,29 @@
 .container {
   display: flex;
+  align-items: center;
+  justify-content: space-between;
+  .imageSection {
+    img {
+      height: 20rem;
+      width: 25rem;
+    }
+  }
+  .content {
+    flex: 0.4;
+    h3 {
+      color: white;
+      font-family: "Montserrat";
+      font-style: normal;
+      font-weight: 700;
+      font-size: 30px;
+    }
+    p {
+      font-family: "Montserrat";
+      color: white;
+      font-style: normal;
+      font-weight: 400;
+      font-size: 20px;
+      line-height: 30px;
+    }
+  }
 }

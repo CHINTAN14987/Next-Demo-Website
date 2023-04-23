@@ -1,6 +1,5 @@
 import Head from "next/head";
 
-import Carousel from "../page-components/Carousel/Carousel";
 import HomePage from "../page-components/Home-Components";
 
 export default function Home() {

@@ -1,0 +1,86 @@
+{
+  "description-data": [
+    {
+      "id": 1,
+      "content": "UI/UX Design",
+      "image": "/Images/ui-ux.png",
+      "desc": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. ",
+      "logos": [
+        "/Images/ui-ux-logo/logo1.png",
+        "/Images/ui-ux-logo/logo2.png",
+        "/Images/ui-ux-logo/logo3.png",
+        "/Images/ui-ux-logo/logo4.png",
+        "/Images/ui-ux-logo/logo5.png",
+        "/Images/ui-ux-logo/logo6.png",
+        "/Images/ui-ux-logo/logo7.png"
+      ]
+    },
+    {
+      "id": 2,
+      "content": "Web Development",
+      "image": "/Images/webApp.png",
+      "desc": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. ",
+      "logos": [
+        "/Images/web-development-logo/logo1.png",
+        "/Images/web-development-logo/logo2.png",
+        "/Images/web-development-logo/logo3.png",
+        "/Images/web-development-logo/logo4.png",
+        "/Images/web-development-logo/logo5.png",
+        "/Images/web-development-logo/logo6.png",
+        "/Images/web-development-logo/logo7.png",
+        "/Images/web-development-logo/logo8.png",
+        "/Images/web-development-logo/logo9.png",
+        "/Images/web-development-logo/logo10.png",
+        "/Images/web-development-logo/logo11.png"
+      ]
+    },
+    {
+      "id": 3,
+      "content": "Mobile App Development",
+      "image": "/Images/mobile-development.png",
+      "desc": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. ",
+      "logos": [
+        "/Images/mobile-development-logo/logo1.png",
+        "/Images/mobile-development-logo/logo2.png",
+        "/Images/mobile-development-logo/logo3.png",
+        "/Images/mobile-development-logo/logo4.png",
+        "/Images/mobile-development-logo/logo5.png",
+        "/Images/mobile-development-logo/logo6.png",
+        "/Images/mobile-development-logo/logo7.png"
+      ]
+    },
+    {
+      "id": 4,
+      "content": "Desktop App Development",
+      "image": "/Images/desktop-app.png",
+      "desc": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. ",
+      "logos": [
+        "/Images/desktop-development-logo/logo1.png",
+        "/Images/desktop-development-logo/logo2.png",
+        "/Images/desktop-development-logo/logo3.png",
+        "/Images/desktop-development-logo/logo4.png"
+      ]
+    },
+    {
+      "id": 5,
+      "content": "Data Science",
+      "image": "/Images/dataScience.png",
+      "desc": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. ",
+      "logos": [
+        "/Images/data-science-logo/logo1.png",
+        "/Images/data-science-logo/logo2.png"
+      ]
+    },
+    {
+      "id": 6,
+      "content": "Machine Learning",
+      "image": "/Images/machineLearning.png",
+      "desc": "Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. ",
+      "logos": [
+        "/Images/machine-learning-logo/logo1.png",
+        "/Images/machine-learning-logo/logo2.png",
+        "/Images/machine-learning-logo/logo3.png"
+      ]
+    }
+  ]
+}

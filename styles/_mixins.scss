@@ -1,0 +1,21 @@
+@mixin primary-background {
+  background-color: #312c51;
+}
+@mixin secondary-background {
+  background: #1c1a2a;
+}
+
+@mixin primary-text-color {
+  color: #eb596e;
+  font-family: "Montserrat";
+  font-style: normal;
+}
+
+@mixin secondary-text-color {
+  color: #fff;
+  font-family: "Montserrat";
+  font-style: normal;
+}
+@mixin shadow {
+  box-shadow: 0px 0px 30px rgba(235, 89, 110, 0.2);
+}

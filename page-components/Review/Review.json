@@ -1,0 +1,39 @@
+{
+  "reviewData": [
+    {
+      "id": 1,
+      "content": "This company is doing wonders in IT services. Leading Company in US staffing. Company is managing big staff in India as well as in US. It has a very friendly work environment and staff here is very helping. Good environment culture and proper food facility is there for employees.",
+      "image": "/Images/Reviewer1.png",
+      "rating": 2,
+      "details": { "name": "Mayur K." }
+    },
+    {
+      "id": 2,
+      "content": "I recently joined enterprise solution inc. as trainee and my experience with this company till now is super. because of training time of this company. The trainers both are awesome, and both are very expert in their fields. And the way of teaching by them is so good and simple as well. So, till now I said only that if anybody want learn recruitment procedure must came there.",
+      "image": "/Images/Reviewer2.png",
+      "rating": "3",
+      "details": { "name": "Rahul Singh" }
+    },
+    {
+      "id": 3,
+      "content": "Believe in equality , Quality of job training is great and Great working environment",
+      "image": "/Images/Reviewer3.png",
+      "rating": "5",
+      "details": { "name": "Saloni Khuranna" }
+    },
+    {
+      "id": 4,
+      "content": "Team is good, good support from our team alone",
+      "image": "/Images/Reviewer4.png",
+      "rating": "5",
+      "details": { "name": "Nimisha Singh" }
+    },
+    {
+      "id": 5,
+      "content": "them in just two words, “Simply Awesome”! Be it the turnaround, quality or the concept understanding, I got the best from them. In fact, before writing all this, I’ve already recommended them",
+      "image": "/Images/Reviewer5.png",
+      "rating": "5",
+      "details": { "name": "Amit Kumar" }
+    }
+  ]
+}
